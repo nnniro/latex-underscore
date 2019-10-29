@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle latex-underscore",
+        "command": "latex-underscore:underscoring"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "latex-underscore",
+          "submenu": [
+            {
+              "label": "underscoring",
+              "command": "latex-underscore:underscoring"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
