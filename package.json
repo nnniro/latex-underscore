@@ -1,10 +1,9 @@
 {
   "name": "latex-underscore",
   "main": "./lib/latex-underscore",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "this package helps you make underscore",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "latex-underscore:underscoring"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
