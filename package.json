@@ -1,7 +1,7 @@
 {
   "name": "latex-underscore",
   "main": "./lib/latex-underscore",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "this package helps you make underscore",
   "keywords": [],
   "activationCommands": {
