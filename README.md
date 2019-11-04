@@ -9,7 +9,7 @@ This package is inspired by [tex-color](https://atom.io/packages/tex-color).
 
 ## Demo
 
-![Imgur](https://i.imgur.com/gogXsX4.gif)
+![Imgur](https://i.imgur.com/NRE51yM.gif)
 
 
 ## Installing
@@ -23,7 +23,8 @@ This package is inspired by [tex-color](https://atom.io/packages/tex-color).
 
 * This Atom package `latex-underscore` uses no TeX package
 * When you select text `hogehoge` that is wanted to make underscored and type `ctrl`+`alt`+`U`,  `\underline` command is inserted as follows
+* Two ideographic space is inserted by default, and ‵\ ‵ is inserted at every halfwidth character, ‵　‵ at every fullwidth character.
 
 ```
-\underline{________}
+testテスト -> \underline{　　\ \ \ \ 　　　}
 ```
